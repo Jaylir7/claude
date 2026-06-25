@@ -1,0 +1,5 @@
+# Obsidian / OS 雜項
+.obsidian/
+.DS_Store
+Thumbs.db
+*.tmp
